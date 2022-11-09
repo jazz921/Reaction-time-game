@@ -1,7 +1,7 @@
-# Vue 3 + Vite
+# Reaction Timer Game
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Just a simple practice project after learning the basics of VueJS
 
-## Recommended IDE Setup
+## Sample Output
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
+![Sample-gif](sample.gif)
